@@ -28,3 +28,5 @@ Author:
 👨‍💻 [Your Name] | [LinkedIn Profile]
 
 # Employee-performance-analysis
+![Screenshot (6)](https://github.com/user-attachments/assets/453ccc21-46a8-4f6b-ac88-ac5ff3a81086)
+
